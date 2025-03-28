@@ -1,0 +1,21 @@
+env
+
+fast-api-app
+    database.py
+    main.py
+    models.py
+    rohini.db
+
+react-app
+    rohini-app
+          public
+              index.html
+          src
+              api.js
+              App.css
+              App.js
+              index.css
+              index.js
+          package.json
+
+readme.txt
